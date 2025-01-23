@@ -1,2 +1,1 @@
-# digital-resume-repo
-A repository for showcasing my professional resume with interactive features
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
